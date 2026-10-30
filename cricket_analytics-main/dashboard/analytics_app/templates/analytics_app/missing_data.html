@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head><meta charset="UTF-8"><title>Data not found</title></head>
+<body style="font-family: sans-serif; max-width: 600px; margin: 60px auto; line-height: 1.6;">
+    <h2>Cleaned datasets not found</h2>
+    <p>The dashboard expects cleaned CSVs at:</p>
+    <pre>{{ matches_path }}
+{{ perf_path }}</pre>
+    <p>Run these two commands from the project root first, then reload this page:</p>
+    <pre>python data/generate_data.py
+python analysis/eda.py</pre>
+</body>
+</html>

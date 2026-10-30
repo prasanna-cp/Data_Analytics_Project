@@ -1,0 +1,241 @@
+match_id,season,date,venue,team1,team2,toss_winner,toss_decision,team1_score,team2_score,winner,margin,margin_type
+M0001,2021,2021-03-25,"Riverside Ground, Chennai",Chennai Chargers,Kolkata Cobras,Chennai Chargers,Bat,157,169,Kolkata Cobras,0,wickets
+M0002,2021,2021-03-28,"Deccan Arena, Hyderabad",Hyderabad Hurricanes,Chennai Chargers,Hyderabad Hurricanes,Field,132,169,Chennai Chargers,7,wickets
+M0003,2021,2021-04-01,"Skyline Stadium, Bengaluru",Bengaluru Blasters,Hyderabad Hurricanes,Hyderabad Hurricanes,Field,170,155,Bengaluru Blasters,15,runs
+M0004,2021,2021-04-04,"Riverside Ground, Chennai",Chennai Chargers,Jaipur Jaguars,Chennai Chargers,Field,156,141,Chennai Chargers,15,runs
+M0005,2021,2021-04-08,"Riverside Ground, Chennai",Chennai Chargers,Mumbai Monarchs,Chennai Chargers,Bat,138,194,Mumbai Monarchs,4,wickets
+M0006,2021,2021-04-11,"Skyline Stadium, Bengaluru",Bengaluru Blasters,Punjab Panthers,Bengaluru Blasters,Field,151,158,Punjab Panthers,1,wickets
+M0007,2021,2021-04-15,"Capital Arena, Delhi",Delhi Dragons,Jaipur Jaguars,Delhi Dragons,Field,186,184,Delhi Dragons,2,runs
+M0008,2021,2021-04-18,"Deccan Arena, Hyderabad",Hyderabad Hurricanes,Mumbai Monarchs,Hyderabad Hurricanes,Field,183,140,Hyderabad Hurricanes,43,runs
+M0009,2021,2021-04-22,"Riverside Ground, Chennai",Chennai Chargers,Delhi Dragons,Chennai Chargers,Bat,184,163,Chennai Chargers,21,runs
+M0010,2021,2021-04-25,"Riverside Ground, Chennai",Chennai Chargers,Hyderabad Hurricanes,Hyderabad Hurricanes,Bat,150,195,Hyderabad Hurricanes,1,wickets
+M0011,2021,2021-04-29,"Riverside Ground, Chennai",Chennai Chargers,Jaipur Jaguars,Jaipur Jaguars,Field,184,131,Chennai Chargers,53,runs
+M0012,2021,2021-05-02,"Riverside Ground, Chennai",Chennai Chargers,Mumbai Monarchs,Chennai Chargers,Field,158,190,Mumbai Monarchs,2,wickets
+M0013,2021,2021-05-06,"Coastal Arena, Mumbai",Mumbai Monarchs,Hyderabad Hurricanes,Hyderabad Hurricanes,Bat,147,187,Hyderabad Hurricanes,1,wickets
+M0014,2021,2021-05-09,"Lake View Ground, Kolkata",Kolkata Cobras,Bengaluru Blasters,Bengaluru Blasters,Bat,160,119,Kolkata Cobras,41,runs
+M0015,2021,2021-05-13,"Panthers Park, Mohali",Punjab Panthers,Mumbai Monarchs,Punjab Panthers,Bat,180,161,Punjab Panthers,19,runs
+M0016,2021,2021-05-16,"Capital Arena, Delhi",Delhi Dragons,Bengaluru Blasters,Delhi Dragons,Bat,159,134,Delhi Dragons,25,runs
+M0017,2021,2021-05-20,"Coastal Arena, Mumbai",Mumbai Monarchs,Bengaluru Blasters,Mumbai Monarchs,Field,153,183,Bengaluru Blasters,2,wickets
+M0018,2021,2021-05-23,"Desert Stadium, Jaipur",Jaipur Jaguars,Mumbai Monarchs,Jaipur Jaguars,Field,152,158,Mumbai Monarchs,2,wickets
+M0019,2021,2021-05-27,"Lake View Ground, Kolkata",Kolkata Cobras,Punjab Panthers,Kolkata Cobras,Bat,161,169,Punjab Panthers,2,wickets
+M0020,2021,2021-05-30,"Skyline Stadium, Bengaluru",Bengaluru Blasters,Hyderabad Hurricanes,Bengaluru Blasters,Field,220,155,Bengaluru Blasters,65,runs
+M0021,2021,2021-06-03,"Coastal Arena, Mumbai",Mumbai Monarchs,Chennai Chargers,Mumbai Monarchs,Bat,153,136,Mumbai Monarchs,17,runs
+M0022,2021,2021-06-06,"Skyline Stadium, Bengaluru",Bengaluru Blasters,Kolkata Cobras,Bengaluru Blasters,Field,187,154,Bengaluru Blasters,33,runs
+M0023,2021,2021-06-10,"Coastal Arena, Mumbai",Mumbai Monarchs,Hyderabad Hurricanes,Mumbai Monarchs,Bat,135,154,Hyderabad Hurricanes,2,wickets
+M0024,2021,2021-06-13,"Desert Stadium, Jaipur",Jaipur Jaguars,Bengaluru Blasters,Jaipur Jaguars,Bat,178,181,Bengaluru Blasters,1,wickets
+M0025,2021,2021-06-17,"Lake View Ground, Kolkata",Kolkata Cobras,Bengaluru Blasters,Kolkata Cobras,Bat,177,169,Kolkata Cobras,8,runs
+M0026,2021,2021-06-20,"Skyline Stadium, Bengaluru",Bengaluru Blasters,Jaipur Jaguars,Bengaluru Blasters,Field,179,154,Bengaluru Blasters,25,runs
+M0027,2021,2021-06-24,"Capital Arena, Delhi",Delhi Dragons,Jaipur Jaguars,Delhi Dragons,Bat,197,155,Delhi Dragons,42,runs
+M0028,2021,2021-06-27,"Lake View Ground, Kolkata",Kolkata Cobras,Jaipur Jaguars,Kolkata Cobras,Field,174,173,Kolkata Cobras,1,runs
+M0029,2021,2021-07-01,"Desert Stadium, Jaipur",Jaipur Jaguars,Bengaluru Blasters,Jaipur Jaguars,Field,181,168,Jaipur Jaguars,13,runs
+M0030,2021,2021-07-04,"Desert Stadium, Jaipur",Jaipur Jaguars,Punjab Panthers,Punjab Panthers,Field,194,116,Jaipur Jaguars,78,runs
+M0031,2021,2021-07-08,"Riverside Ground, Chennai",Chennai Chargers,Jaipur Jaguars,Chennai Chargers,Field,174,151,Chennai Chargers,23,runs
+M0032,2021,2021-07-11,"Desert Stadium, Jaipur",Jaipur Jaguars,Bengaluru Blasters,Jaipur Jaguars,Bat,192,140,Jaipur Jaguars,52,runs
+M0033,2021,2021-07-15,"Coastal Arena, Mumbai",Mumbai Monarchs,Hyderabad Hurricanes,Hyderabad Hurricanes,Field,171,183,Hyderabad Hurricanes,7,wickets
+M0034,2021,2021-07-18,"Capital Arena, Delhi",Delhi Dragons,Chennai Chargers,Chennai Chargers,Bat,196,201,Chennai Chargers,3,wickets
+M0035,2021,2021-07-22,"Lake View Ground, Kolkata",Kolkata Cobras,Punjab Panthers,Kolkata Cobras,Bat,190,182,Kolkata Cobras,8,runs
+M0036,2021,2021-07-25,"Capital Arena, Delhi",Delhi Dragons,Mumbai Monarchs,Delhi Dragons,Bat,184,195,Mumbai Monarchs,5,wickets
+M0037,2021,2021-07-29,"Desert Stadium, Jaipur",Jaipur Jaguars,Hyderabad Hurricanes,Hyderabad Hurricanes,Field,196,189,Jaipur Jaguars,7,runs
+M0038,2021,2021-08-01,"Desert Stadium, Jaipur",Jaipur Jaguars,Chennai Chargers,Jaipur Jaguars,Bat,195,157,Jaipur Jaguars,38,runs
+M0039,2021,2021-08-05,"Desert Stadium, Jaipur",Jaipur Jaguars,Bengaluru Blasters,Bengaluru Blasters,Bat,173,157,Jaipur Jaguars,16,runs
+M0040,2021,2021-08-08,"Desert Stadium, Jaipur",Jaipur Jaguars,Kolkata Cobras,Kolkata Cobras,Bat,184,187,Kolkata Cobras,1,wickets
+M0041,2021,2021-08-12,"Deccan Arena, Hyderabad",Hyderabad Hurricanes,Mumbai Monarchs,Hyderabad Hurricanes,Field,173,170,Hyderabad Hurricanes,3,runs
+M0042,2021,2021-08-15,"Desert Stadium, Jaipur",Jaipur Jaguars,Chennai Chargers,Chennai Chargers,Bat,146,160,Chennai Chargers,6,wickets
+M0043,2021,2021-08-19,"Lake View Ground, Kolkata",Kolkata Cobras,Delhi Dragons,Kolkata Cobras,Bat,171,154,Kolkata Cobras,17,runs
+M0044,2021,2021-08-22,"Deccan Arena, Hyderabad",Hyderabad Hurricanes,Punjab Panthers,Punjab Panthers,Field,172,195,Punjab Panthers,2,wickets
+M0045,2021,2021-08-26,"Capital Arena, Delhi",Delhi Dragons,Chennai Chargers,Delhi Dragons,Bat,156,146,Delhi Dragons,10,runs
+M0046,2021,2021-08-29,"Riverside Ground, Chennai",Chennai Chargers,Punjab Panthers,Punjab Panthers,Bat,171,199,Punjab Panthers,6,wickets
+M0047,2021,2021-09-02,"Panthers Park, Mohali",Punjab Panthers,Chennai Chargers,Punjab Panthers,Bat,190,165,Punjab Panthers,25,runs
+M0048,2021,2021-09-05,"Riverside Ground, Chennai",Chennai Chargers,Kolkata Cobras,Kolkata Cobras,Bat,160,173,Kolkata Cobras,1,wickets
+M0049,2021,2021-09-09,"Desert Stadium, Jaipur",Jaipur Jaguars,Bengaluru Blasters,Jaipur Jaguars,Bat,176,167,Jaipur Jaguars,9,runs
+M0050,2021,2021-09-12,"Deccan Arena, Hyderabad",Hyderabad Hurricanes,Kolkata Cobras,Kolkata Cobras,Bat,151,173,Kolkata Cobras,3,wickets
+M0051,2021,2021-09-16,"Capital Arena, Delhi",Delhi Dragons,Kolkata Cobras,Kolkata Cobras,Field,165,142,Delhi Dragons,23,runs
+M0052,2021,2021-09-19,"Coastal Arena, Mumbai",Mumbai Monarchs,Punjab Panthers,Mumbai Monarchs,Bat,131,194,Punjab Panthers,6,wickets
+M0053,2021,2021-09-23,"Lake View Ground, Kolkata",Kolkata Cobras,Bengaluru Blasters,Kolkata Cobras,Field,163,184,Bengaluru Blasters,1,wickets
+M0054,2021,2021-09-26,"Coastal Arena, Mumbai",Mumbai Monarchs,Kolkata Cobras,Kolkata Cobras,Field,141,188,Kolkata Cobras,4,wickets
+M0055,2021,2021-09-30,"Lake View Ground, Kolkata",Kolkata Cobras,Hyderabad Hurricanes,Hyderabad Hurricanes,Bat,158,187,Hyderabad Hurricanes,5,wickets
+M0056,2021,2021-10-03,"Desert Stadium, Jaipur",Jaipur Jaguars,Punjab Panthers,Punjab Panthers,Bat,165,176,Punjab Panthers,1,wickets
+M0057,2021,2021-10-07,"Panthers Park, Mohali",Punjab Panthers,Hyderabad Hurricanes,Punjab Panthers,Field,164,169,Hyderabad Hurricanes,4,wickets
+M0058,2021,2021-10-10,"Riverside Ground, Chennai",Chennai Chargers,Delhi Dragons,Chennai Chargers,Field,194,161,Chennai Chargers,33,runs
+M0059,2021,2021-10-14,"Deccan Arena, Hyderabad",Hyderabad Hurricanes,Chennai Chargers,Hyderabad Hurricanes,Bat,161,123,Hyderabad Hurricanes,38,runs
+M0060,2021,2021-10-17,"Capital Arena, Delhi",Delhi Dragons,Chennai Chargers,Chennai Chargers,Bat,192,179,Delhi Dragons,13,runs
+M0061,2022,2022-03-25,"Desert Stadium, Jaipur",Jaipur Jaguars,Punjab Panthers,Jaipur Jaguars,Field,189,175,Jaipur Jaguars,14,runs
+M0062,2022,2022-03-28,"Desert Stadium, Jaipur",Jaipur Jaguars,Hyderabad Hurricanes,Jaipur Jaguars,Bat,153,195,Hyderabad Hurricanes,6,wickets
+M0063,2022,2022-04-01,"Skyline Stadium, Bengaluru",Bengaluru Blasters,Chennai Chargers,Chennai Chargers,Bat,161,126,Bengaluru Blasters,35,runs
+M0064,2022,2022-04-04,"Panthers Park, Mohali",Punjab Panthers,Jaipur Jaguars,Punjab Panthers,Field,168,180,Jaipur Jaguars,7,wickets
+M0065,2022,2022-04-08,"Coastal Arena, Mumbai",Mumbai Monarchs,Chennai Chargers,Chennai Chargers,Field,216,155,Mumbai Monarchs,61,runs
+M0066,2022,2022-04-11,"Capital Arena, Delhi",Delhi Dragons,Bengaluru Blasters,Delhi Dragons,Bat,152,166,Bengaluru Blasters,0,wickets
+M0067,2022,2022-04-15,"Desert Stadium, Jaipur",Jaipur Jaguars,Bengaluru Blasters,Bengaluru Blasters,Bat,169,159,Jaipur Jaguars,10,runs
+M0068,2022,2022-04-18,"Coastal Arena, Mumbai",Mumbai Monarchs,Punjab Panthers,Punjab Panthers,Field,171,176,Punjab Panthers,1,wickets
+M0069,2022,2022-04-22,"Panthers Park, Mohali",Punjab Panthers,Mumbai Monarchs,Punjab Panthers,Field,182,142,Punjab Panthers,40,runs
+M0070,2022,2022-04-25,"Capital Arena, Delhi",Delhi Dragons,Bengaluru Blasters,Delhi Dragons,Bat,156,173,Bengaluru Blasters,7,wickets
+M0071,2022,2022-04-29,"Skyline Stadium, Bengaluru",Bengaluru Blasters,Chennai Chargers,Bengaluru Blasters,Bat,179,151,Bengaluru Blasters,28,runs
+M0072,2022,2022-05-02,"Desert Stadium, Jaipur",Jaipur Jaguars,Hyderabad Hurricanes,Jaipur Jaguars,Bat,150,170,Hyderabad Hurricanes,3,wickets
+M0073,2022,2022-05-06,"Riverside Ground, Chennai",Chennai Chargers,Kolkata Cobras,Kolkata Cobras,Field,158,210,Kolkata Cobras,7,wickets
+M0074,2022,2022-05-09,"Panthers Park, Mohali",Punjab Panthers,Chennai Chargers,Punjab Panthers,Bat,168,196,Chennai Chargers,7,wickets
+M0075,2022,2022-05-13,"Lake View Ground, Kolkata",Kolkata Cobras,Punjab Panthers,Kolkata Cobras,Field,184,193,Punjab Panthers,5,wickets
+M0076,2022,2022-05-16,"Deccan Arena, Hyderabad",Hyderabad Hurricanes,Chennai Chargers,Hyderabad Hurricanes,Field,197,180,Hyderabad Hurricanes,17,runs
+M0077,2022,2022-05-20,"Capital Arena, Delhi",Delhi Dragons,Jaipur Jaguars,Delhi Dragons,Field,140,118,Delhi Dragons,22,runs
+M0078,2022,2022-05-23,"Capital Arena, Delhi",Delhi Dragons,Jaipur Jaguars,Delhi Dragons,Bat,159,151,Delhi Dragons,8,runs
+M0079,2022,2022-05-27,"Deccan Arena, Hyderabad",Hyderabad Hurricanes,Chennai Chargers,Hyderabad Hurricanes,Bat,146,159,Chennai Chargers,7,wickets
+M0080,2022,2022-05-30,"Desert Stadium, Jaipur",Jaipur Jaguars,Bengaluru Blasters,Jaipur Jaguars,Field,149,172,Bengaluru Blasters,0,wickets
+M0081,2022,2022-06-03,"Deccan Arena, Hyderabad",Hyderabad Hurricanes,Kolkata Cobras,Hyderabad Hurricanes,Bat,190,168,Hyderabad Hurricanes,22,runs
+M0082,2022,2022-06-06,"Desert Stadium, Jaipur",Jaipur Jaguars,Punjab Panthers,Jaipur Jaguars,Bat,209,193,Jaipur Jaguars,16,runs
+M0083,2022,2022-06-10,"Lake View Ground, Kolkata",Kolkata Cobras,Mumbai Monarchs,Mumbai Monarchs,Field,187,120,Kolkata Cobras,67,runs
+M0084,2022,2022-06-13,"Coastal Arena, Mumbai",Mumbai Monarchs,Hyderabad Hurricanes,Mumbai Monarchs,Field,141,140,Mumbai Monarchs,1,runs
+M0085,2022,2022-06-17,"Capital Arena, Delhi",Delhi Dragons,Kolkata Cobras,Kolkata Cobras,Bat,184,186,Kolkata Cobras,6,wickets
+M0086,2022,2022-06-20,"Capital Arena, Delhi",Delhi Dragons,Punjab Panthers,Delhi Dragons,Bat,164,151,Delhi Dragons,13,runs
+M0087,2022,2022-06-24,"Desert Stadium, Jaipur",Jaipur Jaguars,Chennai Chargers,Chennai Chargers,Field,150,193,Chennai Chargers,4,wickets
+M0088,2022,2022-06-27,"Riverside Ground, Chennai",Chennai Chargers,Punjab Panthers,Chennai Chargers,Field,173,215,Punjab Panthers,0,wickets
+M0089,2022,2022-07-01,"Deccan Arena, Hyderabad",Hyderabad Hurricanes,Punjab Panthers,Hyderabad Hurricanes,Field,161,173,Punjab Panthers,3,wickets
+M0090,2022,2022-07-04,"Panthers Park, Mohali",Punjab Panthers,Delhi Dragons,Punjab Panthers,Field,186,121,Punjab Panthers,65,runs
+M0091,2022,2022-07-08,"Desert Stadium, Jaipur",Jaipur Jaguars,Hyderabad Hurricanes,Jaipur Jaguars,Bat,150,137,Jaipur Jaguars,13,runs
+M0092,2022,2022-07-11,"Coastal Arena, Mumbai",Mumbai Monarchs,Delhi Dragons,Mumbai Monarchs,Bat,137,126,Mumbai Monarchs,11,runs
+M0093,2022,2022-07-15,"Coastal Arena, Mumbai",Mumbai Monarchs,Hyderabad Hurricanes,Hyderabad Hurricanes,Field,171,169,Mumbai Monarchs,2,runs
+M0094,2022,2022-07-18,"Lake View Ground, Kolkata",Kolkata Cobras,Punjab Panthers,Punjab Panthers,Bat,188,177,Kolkata Cobras,11,runs
+M0095,2022,2022-07-22,"Coastal Arena, Mumbai",Mumbai Monarchs,Hyderabad Hurricanes,Hyderabad Hurricanes,Field,203,151,Mumbai Monarchs,52,runs
+M0096,2022,2022-07-25,"Skyline Stadium, Bengaluru",Bengaluru Blasters,Jaipur Jaguars,Bengaluru Blasters,Bat,183,163,Bengaluru Blasters,20,runs
+M0097,2022,2022-07-29,"Capital Arena, Delhi",Delhi Dragons,Mumbai Monarchs,Delhi Dragons,Bat,161,198,Mumbai Monarchs,2,wickets
+M0098,2022,2022-08-01,"Panthers Park, Mohali",Punjab Panthers,Bengaluru Blasters,Punjab Panthers,Bat,168,195,Bengaluru Blasters,6,wickets
+M0099,2022,2022-08-05,"Coastal Arena, Mumbai",Mumbai Monarchs,Chennai Chargers,Mumbai Monarchs,Bat,190,157,Mumbai Monarchs,33,runs
+M0100,2022,2022-08-08,"Capital Arena, Delhi",Delhi Dragons,Bengaluru Blasters,Bengaluru Blasters,Bat,151,169,Bengaluru Blasters,3,wickets
+M0101,2022,2022-08-12,"Capital Arena, Delhi",Delhi Dragons,Mumbai Monarchs,Delhi Dragons,Field,168,156,Delhi Dragons,12,runs
+M0102,2022,2022-08-15,"Panthers Park, Mohali",Punjab Panthers,Jaipur Jaguars,Punjab Panthers,Bat,191,148,Punjab Panthers,43,runs
+M0103,2022,2022-08-19,"Riverside Ground, Chennai",Chennai Chargers,Jaipur Jaguars,Jaipur Jaguars,Bat,162,123,Chennai Chargers,39,runs
+M0104,2022,2022-08-22,"Deccan Arena, Hyderabad",Hyderabad Hurricanes,Punjab Panthers,Hyderabad Hurricanes,Field,193,171,Hyderabad Hurricanes,22,runs
+M0105,2022,2022-08-26,"Deccan Arena, Hyderabad",Hyderabad Hurricanes,Chennai Chargers,Chennai Chargers,Bat,136,194,Chennai Chargers,3,wickets
+M0106,2022,2022-08-29,"Skyline Stadium, Bengaluru",Bengaluru Blasters,Kolkata Cobras,Kolkata Cobras,Field,172,190,Kolkata Cobras,3,wickets
+M0107,2022,2022-09-02,"Coastal Arena, Mumbai",Mumbai Monarchs,Chennai Chargers,Chennai Chargers,Field,155,171,Chennai Chargers,7,wickets
+M0108,2022,2022-09-05,"Lake View Ground, Kolkata",Kolkata Cobras,Punjab Panthers,Kolkata Cobras,Field,147,164,Punjab Panthers,2,wickets
+M0109,2022,2022-09-09,"Skyline Stadium, Bengaluru",Bengaluru Blasters,Punjab Panthers,Punjab Panthers,Field,151,150,Bengaluru Blasters,1,runs
+M0110,2022,2022-09-12,"Panthers Park, Mohali",Punjab Panthers,Mumbai Monarchs,Mumbai Monarchs,Bat,134,175,Mumbai Monarchs,0,wickets
+M0111,2022,2022-09-16,"Panthers Park, Mohali",Punjab Panthers,Kolkata Cobras,Punjab Panthers,Bat,160,201,Kolkata Cobras,6,wickets
+M0112,2022,2022-09-19,"Capital Arena, Delhi",Delhi Dragons,Chennai Chargers,Delhi Dragons,Field,171,183,Chennai Chargers,7,wickets
+M0113,2022,2022-09-23,"Capital Arena, Delhi",Delhi Dragons,Hyderabad Hurricanes,Delhi Dragons,Field,217,206,Delhi Dragons,11,runs
+M0114,2022,2022-09-26,"Panthers Park, Mohali",Punjab Panthers,Bengaluru Blasters,Bengaluru Blasters,Bat,137,151,Bengaluru Blasters,5,wickets
+M0115,2022,2022-09-30,"Deccan Arena, Hyderabad",Hyderabad Hurricanes,Jaipur Jaguars,Jaipur Jaguars,Bat,169,133,Hyderabad Hurricanes,36,runs
+M0116,2022,2022-10-03,"Panthers Park, Mohali",Punjab Panthers,Chennai Chargers,Punjab Panthers,Bat,177,196,Chennai Chargers,5,wickets
+M0117,2022,2022-10-07,"Lake View Ground, Kolkata",Kolkata Cobras,Chennai Chargers,Kolkata Cobras,Field,162,117,Kolkata Cobras,45,runs
+M0118,2022,2022-10-10,"Riverside Ground, Chennai",Chennai Chargers,Kolkata Cobras,Chennai Chargers,Bat,145,167,Kolkata Cobras,1,wickets
+M0119,2022,2022-10-14,"Skyline Stadium, Bengaluru",Bengaluru Blasters,Chennai Chargers,Chennai Chargers,Bat,182,135,Bengaluru Blasters,47,runs
+M0120,2022,2022-10-17,"Capital Arena, Delhi",Delhi Dragons,Kolkata Cobras,Delhi Dragons,Field,158,187,Kolkata Cobras,0,wickets
+M0121,2023,2023-03-25,"Lake View Ground, Kolkata",Kolkata Cobras,Delhi Dragons,Delhi Dragons,Bat,149,173,Delhi Dragons,7,wickets
+M0122,2023,2023-03-28,"Capital Arena, Delhi",Delhi Dragons,Hyderabad Hurricanes,Delhi Dragons,Bat,131,110,Delhi Dragons,21,runs
+M0123,2023,2023-04-01,"Riverside Ground, Chennai",Chennai Chargers,Jaipur Jaguars,Jaipur Jaguars,Bat,155,169,Jaipur Jaguars,5,wickets
+M0124,2023,2023-04-04,"Desert Stadium, Jaipur",Jaipur Jaguars,Kolkata Cobras,Jaipur Jaguars,Field,170,159,Jaipur Jaguars,11,runs
+M0125,2023,2023-04-08,"Lake View Ground, Kolkata",Kolkata Cobras,Punjab Panthers,Kolkata Cobras,Bat,135,158,Punjab Panthers,1,wickets
+M0126,2023,2023-04-11,"Capital Arena, Delhi",Delhi Dragons,Kolkata Cobras,Delhi Dragons,Bat,170,168,Delhi Dragons,2,runs
+M0127,2023,2023-04-15,"Coastal Arena, Mumbai",Mumbai Monarchs,Hyderabad Hurricanes,Mumbai Monarchs,Field,177,140,Mumbai Monarchs,37,runs
+M0128,2023,2023-04-18,"Deccan Arena, Hyderabad",Hyderabad Hurricanes,Kolkata Cobras,Kolkata Cobras,Field,187,158,Hyderabad Hurricanes,29,runs
+M0129,2023,2023-04-22,"Skyline Stadium, Bengaluru",Bengaluru Blasters,Hyderabad Hurricanes,Bengaluru Blasters,Field,192,117,Bengaluru Blasters,75,runs
+M0130,2023,2023-04-25,"Panthers Park, Mohali",Punjab Panthers,Bengaluru Blasters,Punjab Panthers,Field,168,155,Punjab Panthers,13,runs
+M0131,2023,2023-04-29,"Desert Stadium, Jaipur",Jaipur Jaguars,Mumbai Monarchs,Jaipur Jaguars,Bat,217,109,Jaipur Jaguars,108,runs
+M0132,2023,2023-05-02,"Lake View Ground, Kolkata",Kolkata Cobras,Punjab Panthers,Punjab Panthers,Bat,204,170,Kolkata Cobras,34,runs
+M0133,2023,2023-05-06,"Lake View Ground, Kolkata",Kolkata Cobras,Punjab Panthers,Kolkata Cobras,Field,185,181,Kolkata Cobras,4,runs
+M0134,2023,2023-05-09,"Riverside Ground, Chennai",Chennai Chargers,Jaipur Jaguars,Jaipur Jaguars,Bat,130,187,Jaipur Jaguars,7,wickets
+M0135,2023,2023-05-13,"Coastal Arena, Mumbai",Mumbai Monarchs,Chennai Chargers,Mumbai Monarchs,Bat,144,180,Chennai Chargers,0,wickets
+M0136,2023,2023-05-16,"Desert Stadium, Jaipur",Jaipur Jaguars,Chennai Chargers,Chennai Chargers,Bat,195,173,Jaipur Jaguars,22,runs
+M0137,2023,2023-05-20,"Panthers Park, Mohali",Punjab Panthers,Chennai Chargers,Chennai Chargers,Bat,161,221,Chennai Chargers,1,wickets
+M0138,2023,2023-05-23,"Panthers Park, Mohali",Punjab Panthers,Mumbai Monarchs,Mumbai Monarchs,Field,196,147,Punjab Panthers,49,runs
+M0139,2023,2023-05-27,"Deccan Arena, Hyderabad",Hyderabad Hurricanes,Delhi Dragons,Delhi Dragons,Bat,154,179,Delhi Dragons,4,wickets
+M0140,2023,2023-05-30,"Deccan Arena, Hyderabad",Hyderabad Hurricanes,Chennai Chargers,Chennai Chargers,Field,183,168,Hyderabad Hurricanes,15,runs
+M0141,2023,2023-06-03,"Lake View Ground, Kolkata",Kolkata Cobras,Delhi Dragons,Delhi Dragons,Field,183,196,Delhi Dragons,2,wickets
+M0142,2023,2023-06-06,"Coastal Arena, Mumbai",Mumbai Monarchs,Jaipur Jaguars,Mumbai Monarchs,Bat,187,180,Mumbai Monarchs,7,runs
+M0143,2023,2023-06-10,"Deccan Arena, Hyderabad",Hyderabad Hurricanes,Jaipur Jaguars,Jaipur Jaguars,Bat,111,205,Jaipur Jaguars,5,wickets
+M0144,2023,2023-06-13,"Lake View Ground, Kolkata",Kolkata Cobras,Punjab Panthers,Punjab Panthers,Field,188,178,Kolkata Cobras,10,runs
+M0145,2023,2023-06-17,"Deccan Arena, Hyderabad",Hyderabad Hurricanes,Punjab Panthers,Punjab Panthers,Field,206,128,Hyderabad Hurricanes,78,runs
+M0146,2023,2023-06-20,"Capital Arena, Delhi",Delhi Dragons,Hyderabad Hurricanes,Hyderabad Hurricanes,Bat,170,205,Hyderabad Hurricanes,7,wickets
+M0147,2023,2023-06-24,"Lake View Ground, Kolkata",Kolkata Cobras,Bengaluru Blasters,Bengaluru Blasters,Field,162,161,Kolkata Cobras,1,runs
+M0148,2023,2023-06-27,"Coastal Arena, Mumbai",Mumbai Monarchs,Jaipur Jaguars,Mumbai Monarchs,Field,174,222,Jaipur Jaguars,4,wickets
+M0149,2023,2023-07-01,"Panthers Park, Mohali",Punjab Panthers,Hyderabad Hurricanes,Punjab Panthers,Field,132,128,Punjab Panthers,4,runs
+M0150,2023,2023-07-04,"Panthers Park, Mohali",Punjab Panthers,Kolkata Cobras,Punjab Panthers,Field,161,162,Kolkata Cobras,5,wickets
+M0151,2023,2023-07-08,"Deccan Arena, Hyderabad",Hyderabad Hurricanes,Bengaluru Blasters,Hyderabad Hurricanes,Field,203,165,Hyderabad Hurricanes,38,runs
+M0152,2023,2023-07-11,"Riverside Ground, Chennai",Chennai Chargers,Delhi Dragons,Delhi Dragons,Bat,136,194,Delhi Dragons,4,wickets
+M0153,2023,2023-07-15,"Deccan Arena, Hyderabad",Hyderabad Hurricanes,Jaipur Jaguars,Jaipur Jaguars,Bat,165,149,Hyderabad Hurricanes,16,runs
+M0154,2023,2023-07-18,"Panthers Park, Mohali",Punjab Panthers,Bengaluru Blasters,Bengaluru Blasters,Bat,127,144,Bengaluru Blasters,4,wickets
+M0155,2023,2023-07-22,"Panthers Park, Mohali",Punjab Panthers,Bengaluru Blasters,Bengaluru Blasters,Bat,139,173,Bengaluru Blasters,1,wickets
+M0156,2023,2023-07-25,"Riverside Ground, Chennai",Chennai Chargers,Delhi Dragons,Delhi Dragons,Bat,154,176,Delhi Dragons,2,wickets
+M0157,2023,2023-07-29,"Riverside Ground, Chennai",Chennai Chargers,Bengaluru Blasters,Chennai Chargers,Bat,213,177,Chennai Chargers,36,runs
+M0158,2023,2023-08-01,"Coastal Arena, Mumbai",Mumbai Monarchs,Kolkata Cobras,Kolkata Cobras,Bat,172,183,Kolkata Cobras,3,wickets
+M0159,2023,2023-08-05,"Desert Stadium, Jaipur",Jaipur Jaguars,Mumbai Monarchs,Jaipur Jaguars,Bat,190,142,Jaipur Jaguars,48,runs
+M0160,2023,2023-08-08,"Skyline Stadium, Bengaluru",Bengaluru Blasters,Jaipur Jaguars,Bengaluru Blasters,Bat,117,141,Jaipur Jaguars,2,wickets
+M0161,2023,2023-08-12,"Coastal Arena, Mumbai",Mumbai Monarchs,Hyderabad Hurricanes,Mumbai Monarchs,Field,212,176,Mumbai Monarchs,36,runs
+M0162,2023,2023-08-15,"Capital Arena, Delhi",Delhi Dragons,Chennai Chargers,Delhi Dragons,Field,168,138,Delhi Dragons,30,runs
+M0163,2023,2023-08-19,"Capital Arena, Delhi",Delhi Dragons,Jaipur Jaguars,Jaipur Jaguars,Bat,126,177,Jaipur Jaguars,3,wickets
+M0164,2023,2023-08-22,"Skyline Stadium, Bengaluru",Bengaluru Blasters,Hyderabad Hurricanes,Hyderabad Hurricanes,Field,151,149,Bengaluru Blasters,2,runs
+M0165,2023,2023-08-26,"Panthers Park, Mohali",Punjab Panthers,Mumbai Monarchs,Mumbai Monarchs,Bat,141,175,Mumbai Monarchs,2,wickets
+M0166,2023,2023-08-29,"Lake View Ground, Kolkata",Kolkata Cobras,Chennai Chargers,Kolkata Cobras,Field,120,168,Chennai Chargers,6,wickets
+M0167,2023,2023-09-02,"Capital Arena, Delhi",Delhi Dragons,Punjab Panthers,Delhi Dragons,Bat,210,151,Delhi Dragons,59,runs
+M0168,2023,2023-09-05,"Desert Stadium, Jaipur",Jaipur Jaguars,Bengaluru Blasters,Bengaluru Blasters,Field,149,176,Bengaluru Blasters,0,wickets
+M0169,2023,2023-09-09,"Desert Stadium, Jaipur",Jaipur Jaguars,Chennai Chargers,Chennai Chargers,Bat,157,215,Chennai Chargers,0,wickets
+M0170,2023,2023-09-12,"Desert Stadium, Jaipur",Jaipur Jaguars,Punjab Panthers,Punjab Panthers,Field,192,160,Jaipur Jaguars,32,runs
+M0171,2023,2023-09-16,"Riverside Ground, Chennai",Chennai Chargers,Delhi Dragons,Delhi Dragons,Field,134,154,Delhi Dragons,1,wickets
+M0172,2023,2023-09-19,"Skyline Stadium, Bengaluru",Bengaluru Blasters,Mumbai Monarchs,Mumbai Monarchs,Field,163,150,Bengaluru Blasters,13,runs
+M0173,2023,2023-09-23,"Riverside Ground, Chennai",Chennai Chargers,Delhi Dragons,Delhi Dragons,Field,211,148,Chennai Chargers,63,runs
+M0174,2023,2023-09-26,"Deccan Arena, Hyderabad",Hyderabad Hurricanes,Jaipur Jaguars,Jaipur Jaguars,Field,210,151,Hyderabad Hurricanes,59,runs
+M0175,2023,2023-09-30,"Deccan Arena, Hyderabad",Hyderabad Hurricanes,Chennai Chargers,Chennai Chargers,Bat,117,163,Chennai Chargers,1,wickets
+M0176,2023,2023-10-03,"Lake View Ground, Kolkata",Kolkata Cobras,Mumbai Monarchs,Mumbai Monarchs,Bat,197,166,Kolkata Cobras,31,runs
+M0177,2023,2023-10-07,"Skyline Stadium, Bengaluru",Bengaluru Blasters,Jaipur Jaguars,Jaipur Jaguars,Bat,150,165,Jaipur Jaguars,7,wickets
+M0178,2023,2023-10-10,"Riverside Ground, Chennai",Chennai Chargers,Punjab Panthers,Chennai Chargers,Field,139,135,Chennai Chargers,4,runs
+M0179,2023,2023-10-14,"Capital Arena, Delhi",Delhi Dragons,Bengaluru Blasters,Delhi Dragons,Field,159,169,Bengaluru Blasters,4,wickets
+M0180,2023,2023-10-17,"Capital Arena, Delhi",Delhi Dragons,Bengaluru Blasters,Delhi Dragons,Bat,147,135,Delhi Dragons,12,runs
+M0181,2024,2024-03-25,"Lake View Ground, Kolkata",Kolkata Cobras,Punjab Panthers,Kolkata Cobras,Bat,196,145,Kolkata Cobras,51,runs
+M0182,2024,2024-03-28,"Lake View Ground, Kolkata",Kolkata Cobras,Punjab Panthers,Punjab Panthers,Bat,175,119,Kolkata Cobras,56,runs
+M0183,2024,2024-04-01,"Lake View Ground, Kolkata",Kolkata Cobras,Delhi Dragons,Delhi Dragons,Bat,156,147,Kolkata Cobras,9,runs
+M0184,2024,2024-04-04,"Skyline Stadium, Bengaluru",Bengaluru Blasters,Mumbai Monarchs,Mumbai Monarchs,Bat,201,154,Bengaluru Blasters,47,runs
+M0185,2024,2024-04-08,"Desert Stadium, Jaipur",Jaipur Jaguars,Chennai Chargers,Chennai Chargers,Bat,171,170,Jaipur Jaguars,1,runs
+M0186,2024,2024-04-11,"Riverside Ground, Chennai",Chennai Chargers,Kolkata Cobras,Chennai Chargers,Field,179,119,Chennai Chargers,60,runs
+M0187,2024,2024-04-15,"Panthers Park, Mohali",Punjab Panthers,Kolkata Cobras,Punjab Panthers,Bat,185,139,Punjab Panthers,46,runs
+M0188,2024,2024-04-18,"Coastal Arena, Mumbai",Mumbai Monarchs,Jaipur Jaguars,Jaipur Jaguars,Field,147,160,Jaipur Jaguars,3,wickets
+M0189,2024,2024-04-22,"Deccan Arena, Hyderabad",Hyderabad Hurricanes,Jaipur Jaguars,Hyderabad Hurricanes,Field,177,154,Hyderabad Hurricanes,23,runs
+M0190,2024,2024-04-25,"Lake View Ground, Kolkata",Kolkata Cobras,Mumbai Monarchs,Kolkata Cobras,Bat,186,195,Mumbai Monarchs,3,wickets
+M0191,2024,2024-04-29,"Lake View Ground, Kolkata",Kolkata Cobras,Bengaluru Blasters,Kolkata Cobras,Bat,158,167,Bengaluru Blasters,5,wickets
+M0192,2024,2024-05-02,"Panthers Park, Mohali",Punjab Panthers,Delhi Dragons,Punjab Panthers,Bat,209,176,Punjab Panthers,33,runs
+M0193,2024,2024-05-06,"Capital Arena, Delhi",Delhi Dragons,Jaipur Jaguars,Jaipur Jaguars,Field,208,104,Delhi Dragons,104,runs
+M0194,2024,2024-05-09,"Desert Stadium, Jaipur",Jaipur Jaguars,Hyderabad Hurricanes,Hyderabad Hurricanes,Field,146,177,Hyderabad Hurricanes,4,wickets
+M0195,2024,2024-05-13,"Skyline Stadium, Bengaluru",Bengaluru Blasters,Delhi Dragons,Bengaluru Blasters,Field,131,175,Delhi Dragons,4,wickets
+M0196,2024,2024-05-16,"Desert Stadium, Jaipur",Jaipur Jaguars,Chennai Chargers,Jaipur Jaguars,Field,210,172,Jaipur Jaguars,38,runs
+M0197,2024,2024-05-20,"Desert Stadium, Jaipur",Jaipur Jaguars,Delhi Dragons,Delhi Dragons,Field,174,180,Delhi Dragons,2,wickets
+M0198,2024,2024-05-23,"Capital Arena, Delhi",Delhi Dragons,Punjab Panthers,Punjab Panthers,Bat,214,158,Delhi Dragons,56,runs
+M0199,2024,2024-05-27,"Skyline Stadium, Bengaluru",Bengaluru Blasters,Delhi Dragons,Delhi Dragons,Field,157,154,Bengaluru Blasters,3,runs
+M0200,2024,2024-05-30,"Desert Stadium, Jaipur",Jaipur Jaguars,Delhi Dragons,Delhi Dragons,Bat,142,184,Delhi Dragons,3,wickets
+M0201,2024,2024-06-03,"Coastal Arena, Mumbai",Mumbai Monarchs,Bengaluru Blasters,Mumbai Monarchs,Bat,134,139,Bengaluru Blasters,6,wickets
+M0202,2024,2024-06-06,"Panthers Park, Mohali",Punjab Panthers,Jaipur Jaguars,Punjab Panthers,Bat,170,173,Jaipur Jaguars,6,wickets
+M0203,2024,2024-06-10,"Deccan Arena, Hyderabad",Hyderabad Hurricanes,Chennai Chargers,Chennai Chargers,Bat,150,182,Chennai Chargers,6,wickets
+M0204,2024,2024-06-13,"Coastal Arena, Mumbai",Mumbai Monarchs,Bengaluru Blasters,Mumbai Monarchs,Bat,163,172,Bengaluru Blasters,4,wickets
+M0205,2024,2024-06-17,"Desert Stadium, Jaipur",Jaipur Jaguars,Chennai Chargers,Chennai Chargers,Bat,158,150,Jaipur Jaguars,8,runs
+M0206,2024,2024-06-20,"Deccan Arena, Hyderabad",Hyderabad Hurricanes,Chennai Chargers,Chennai Chargers,Field,181,163,Hyderabad Hurricanes,18,runs
+M0207,2024,2024-06-24,"Coastal Arena, Mumbai",Mumbai Monarchs,Kolkata Cobras,Kolkata Cobras,Field,170,204,Kolkata Cobras,4,wickets
+M0208,2024,2024-06-27,"Riverside Ground, Chennai",Chennai Chargers,Kolkata Cobras,Chennai Chargers,Bat,158,162,Kolkata Cobras,5,wickets
+M0209,2024,2024-07-01,"Coastal Arena, Mumbai",Mumbai Monarchs,Delhi Dragons,Delhi Dragons,Bat,141,156,Delhi Dragons,5,wickets
+M0210,2024,2024-07-04,"Coastal Arena, Mumbai",Mumbai Monarchs,Chennai Chargers,Chennai Chargers,Bat,154,182,Chennai Chargers,2,wickets
+M0211,2024,2024-07-08,"Coastal Arena, Mumbai",Mumbai Monarchs,Kolkata Cobras,Mumbai Monarchs,Field,201,152,Mumbai Monarchs,49,runs
+M0212,2024,2024-07-11,"Lake View Ground, Kolkata",Kolkata Cobras,Punjab Panthers,Kolkata Cobras,Bat,221,186,Kolkata Cobras,35,runs
+M0213,2024,2024-07-15,"Coastal Arena, Mumbai",Mumbai Monarchs,Bengaluru Blasters,Mumbai Monarchs,Field,151,156,Bengaluru Blasters,1,wickets
+M0214,2024,2024-07-18,"Riverside Ground, Chennai",Chennai Chargers,Kolkata Cobras,Kolkata Cobras,Field,162,167,Kolkata Cobras,7,wickets
+M0215,2024,2024-07-22,"Capital Arena, Delhi",Delhi Dragons,Bengaluru Blasters,Delhi Dragons,Bat,152,174,Bengaluru Blasters,5,wickets
+M0216,2024,2024-07-25,"Riverside Ground, Chennai",Chennai Chargers,Delhi Dragons,Delhi Dragons,Field,161,185,Delhi Dragons,1,wickets
+M0217,2024,2024-07-29,"Coastal Arena, Mumbai",Mumbai Monarchs,Hyderabad Hurricanes,Hyderabad Hurricanes,Field,185,144,Mumbai Monarchs,41,runs
+M0218,2024,2024-08-01,"Lake View Ground, Kolkata",Kolkata Cobras,Punjab Panthers,Punjab Panthers,Bat,173,138,Kolkata Cobras,35,runs
+M0219,2024,2024-08-05,"Capital Arena, Delhi",Delhi Dragons,Kolkata Cobras,Delhi Dragons,Field,195,168,Delhi Dragons,27,runs
+M0220,2024,2024-08-08,"Capital Arena, Delhi",Delhi Dragons,Bengaluru Blasters,Delhi Dragons,Field,126,178,Bengaluru Blasters,4,wickets
+M0221,2024,2024-08-12,"Riverside Ground, Chennai",Chennai Chargers,Mumbai Monarchs,Mumbai Monarchs,Field,184,150,Chennai Chargers,34,runs
+M0222,2024,2024-08-15,"Coastal Arena, Mumbai",Mumbai Monarchs,Delhi Dragons,Mumbai Monarchs,Bat,192,155,Mumbai Monarchs,37,runs
+M0223,2024,2024-08-19,"Coastal Arena, Mumbai",Mumbai Monarchs,Bengaluru Blasters,Bengaluru Blasters,Bat,139,154,Bengaluru Blasters,1,wickets
+M0224,2024,2024-08-22,"Riverside Ground, Chennai",Chennai Chargers,Hyderabad Hurricanes,Chennai Chargers,Bat,181,159,Chennai Chargers,22,runs
+M0225,2024,2024-08-26,"Skyline Stadium, Bengaluru",Bengaluru Blasters,Delhi Dragons,Delhi Dragons,Field,143,170,Delhi Dragons,6,wickets
+M0226,2024,2024-08-29,"Skyline Stadium, Bengaluru",Bengaluru Blasters,Mumbai Monarchs,Mumbai Monarchs,Field,166,186,Mumbai Monarchs,0,wickets
+M0227,2024,2024-09-02,"Capital Arena, Delhi",Delhi Dragons,Chennai Chargers,Delhi Dragons,Bat,148,199,Chennai Chargers,6,wickets
+M0228,2024,2024-09-05,"Capital Arena, Delhi",Delhi Dragons,Kolkata Cobras,Delhi Dragons,Field,174,158,Delhi Dragons,16,runs
+M0229,2024,2024-09-09,"Lake View Ground, Kolkata",Kolkata Cobras,Bengaluru Blasters,Bengaluru Blasters,Bat,183,118,Kolkata Cobras,65,runs
+M0230,2024,2024-09-12,"Skyline Stadium, Bengaluru",Bengaluru Blasters,Hyderabad Hurricanes,Bengaluru Blasters,Bat,184,149,Bengaluru Blasters,35,runs
+M0231,2024,2024-09-16,"Skyline Stadium, Bengaluru",Bengaluru Blasters,Hyderabad Hurricanes,Bengaluru Blasters,Bat,186,119,Bengaluru Blasters,67,runs
+M0232,2024,2024-09-19,"Panthers Park, Mohali",Punjab Panthers,Delhi Dragons,Delhi Dragons,Field,174,200,Delhi Dragons,2,wickets
+M0233,2024,2024-09-23,"Riverside Ground, Chennai",Chennai Chargers,Hyderabad Hurricanes,Hyderabad Hurricanes,Bat,149,194,Hyderabad Hurricanes,3,wickets
+M0234,2024,2024-09-26,"Skyline Stadium, Bengaluru",Bengaluru Blasters,Chennai Chargers,Chennai Chargers,Field,149,108,Bengaluru Blasters,41,runs
+M0235,2024,2024-09-30,"Lake View Ground, Kolkata",Kolkata Cobras,Hyderabad Hurricanes,Kolkata Cobras,Field,151,136,Kolkata Cobras,15,runs
+M0236,2024,2024-10-03,"Lake View Ground, Kolkata",Kolkata Cobras,Chennai Chargers,Chennai Chargers,Field,225,157,Kolkata Cobras,68,runs
+M0237,2024,2024-10-07,"Capital Arena, Delhi",Delhi Dragons,Kolkata Cobras,Delhi Dragons,Field,171,154,Delhi Dragons,17,runs
+M0238,2024,2024-10-10,"Capital Arena, Delhi",Delhi Dragons,Kolkata Cobras,Kolkata Cobras,Bat,192,145,Delhi Dragons,47,runs
+M0239,2024,2024-10-14,"Capital Arena, Delhi",Delhi Dragons,Bengaluru Blasters,Delhi Dragons,Bat,198,145,Delhi Dragons,53,runs
+M0240,2024,2024-10-17,"Desert Stadium, Jaipur",Jaipur Jaguars,Chennai Chargers,Chennai Chargers,Bat,181,172,Jaipur Jaguars,9,runs

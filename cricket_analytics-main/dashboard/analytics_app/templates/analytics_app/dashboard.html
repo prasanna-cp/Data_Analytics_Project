@@ -1,0 +1,133 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Cricket Analytics Dashboard</title>
+    <style>
+        * { box-sizing: border-box; }
+        body {
+            font-family: -apple-system, Segoe UI, Roboto, Arial, sans-serif;
+            background: #f4f6f8;
+            margin: 0;
+            padding: 0 0 60px 0;
+            color: #1f2733;
+        }
+        header {
+            background: linear-gradient(135deg, #0d3b28, #1e6b47);
+            color: #fff;
+            padding: 32px 40px;
+        }
+        header h1 { margin: 0 0 6px 0; font-size: 26px; }
+        header p { margin: 0; opacity: 0.85; font-size: 14px; }
+
+        .container { max-width: 1150px; margin: 0 auto; padding: 0 24px; }
+
+        .kpi-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 16px;
+            margin-top: -28px;
+        }
+        .kpi-card {
+            background: #fff;
+            border-radius: 10px;
+            padding: 18px 20px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+        }
+        .kpi-card .label { font-size: 12px; color: #6b7280; text-transform: uppercase; letter-spacing: 0.04em; }
+        .kpi-card .value { font-size: 20px; font-weight: 700; margin-top: 6px; color: #0d3b28; }
+
+        h2.section-title {
+            margin-top: 48px;
+            margin-bottom: 16px;
+            font-size: 19px;
+            border-left: 4px solid #1e6b47;
+            padding-left: 10px;
+        }
+
+        .table-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+            gap: 20px;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            background: #fff;
+            border-radius: 10px;
+            overflow: hidden;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.06);
+        }
+        th, td { padding: 10px 14px; text-align: left; font-size: 14px; }
+        th { background: #0d3b28; color: #fff; font-weight: 600; }
+        tr:nth-child(even) { background: #f7f8fa; }
+
+        .chart-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(420px, 1fr));
+            gap: 20px;
+        }
+        .chart-card {
+            background: #fff;
+            border-radius: 10px;
+            padding: 12px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.06);
+        }
+        .chart-card img { width: 100%; border-radius: 6px; display: block; }
+
+        footer { text-align: center; color: #8b93a1; font-size: 12px; margin-top: 60px; }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Cricket Analytics Dashboard</h1>
+        <p>Django + Pandas integration &middot; 4-season T20 league data</p>
+    </header>
+
+    <div class="container">
+        <div class="kpi-grid">
+            <div class="kpi-card"><div class="label">Total Matches</div><div class="value">{{ kpis.total_matches }}</div></div>
+            <div class="kpi-card"><div class="label">Total Runs</div><div class="value">{{ kpis.total_runs }}</div></div>
+            <div class="kpi-card"><div class="label">Total Wickets</div><div class="value">{{ kpis.total_wickets }}</div></div>
+            <div class="kpi-card"><div class="label">Top Run Scorer</div><div class="value">{{ kpis.top_scorer }}</div></div>
+            <div class="kpi-card"><div class="label">Top Wicket Taker</div><div class="value">{{ kpis.top_bowler }}</div></div>
+        </div>
+
+        <h2 class="section-title">Leaderboards</h2>
+        <div class="table-grid">
+            <table>
+                <tr><th>Top Run Scorers</th><th>Runs</th></tr>
+                {% for name, value in top_run_scorers %}
+                <tr><td>{{ name }}</td><td>{{ value }}</td></tr>
+                {% endfor %}
+            </table>
+
+            <table>
+                <tr><th>Top Wicket Takers</th><th>Wickets</th></tr>
+                {% for name, value in top_wicket_takers %}
+                <tr><td>{{ name }}</td><td>{{ value }}</td></tr>
+                {% endfor %}
+            </table>
+
+            <table>
+                <tr><th>Team</th><th>Wins</th></tr>
+                {% for name, value in team_wins %}
+                <tr><td>{{ name }}</td><td>{{ value }}</td></tr>
+                {% endfor %}
+            </table>
+        </div>
+
+        <h2 class="section-title">Charts</h2>
+        <div class="chart-grid">
+            {% for chart in chart_files %}
+            <div class="chart-card">
+                <img src="{% static 'charts/'|add:chart %}" alt="{{ chart }}">
+            </div>
+            {% endfor %}
+        </div>
+
+        <footer>Cricket Analytics Project &middot; generated with Python, Pandas, NumPy, Matplotlib, Seaborn & Django &middot; all data is synthetic</footer>
+    </div>
+</body>
+</html>

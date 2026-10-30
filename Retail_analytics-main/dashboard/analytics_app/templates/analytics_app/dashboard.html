@@ -1,0 +1,132 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Retail Sales Analytics Dashboard</title>
+    <style>
+        * { box-sizing: border-box; }
+        body {
+            font-family: -apple-system, Segoe UI, Roboto, Arial, sans-serif;
+            background: #f4f6f8;
+            margin: 0;
+            padding: 0 0 60px 0;
+            color: #1f2733;
+        }
+        header {
+            background: linear-gradient(135deg, #1f2a44, #3a4b7a);
+            color: #fff;
+            padding: 32px 40px;
+        }
+        header h1 { margin: 0 0 6px 0; font-size: 26px; }
+        header p { margin: 0; opacity: 0.85; font-size: 14px; }
+
+        .container { max-width: 1150px; margin: 0 auto; padding: 0 24px; }
+
+        .kpi-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 16px;
+            margin-top: -28px;
+        }
+        .kpi-card {
+            background: #fff;
+            border-radius: 10px;
+            padding: 18px 20px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+        }
+        .kpi-card .label { font-size: 12px; color: #6b7280; text-transform: uppercase; letter-spacing: 0.04em; }
+        .kpi-card .value { font-size: 24px; font-weight: 700; margin-top: 6px; color: #1f2a44; }
+
+        h2.section-title {
+            margin-top: 48px;
+            margin-bottom: 16px;
+            font-size: 19px;
+            border-left: 4px solid #3a4b7a;
+            padding-left: 10px;
+        }
+
+        .table-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+            gap: 20px;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            background: #fff;
+            border-radius: 10px;
+            overflow: hidden;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.06);
+        }
+        th, td { padding: 10px 14px; text-align: left; font-size: 14px; }
+        th { background: #1f2a44; color: #fff; font-weight: 600; }
+        tr:nth-child(even) { background: #f7f8fa; }
+
+        .chart-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(420px, 1fr));
+            gap: 20px;
+        }
+        .chart-card {
+            background: #fff;
+            border-radius: 10px;
+            padding: 12px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.06);
+        }
+        .chart-card img { width: 100%; border-radius: 6px; display: block; }
+
+        footer { text-align: center; color: #8b93a1; font-size: 12px; margin-top: 60px; }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Retail Sales Analytics Dashboard</h1>
+        <p>Django + Pandas integration &middot; data source: retail_sales_cleaned.csv</p>
+    </header>
+
+    <div class="container">
+        <div class="kpi-grid">
+            <div class="kpi-card"><div class="label">Total Revenue</div><div class="value">{{ kpis.total_revenue }}</div></div>
+            <div class="kpi-card"><div class="label">Total Orders</div><div class="value">{{ kpis.total_orders }}</div></div>
+            <div class="kpi-card"><div class="label">Avg Order Value</div><div class="value">{{ kpis.avg_order_value }}</div></div>
+            <div class="kpi-card"><div class="label">Avg Customer Rating</div><div class="value">{{ kpis.avg_rating }}</div></div>
+        </div>
+
+        <h2 class="section-title">Breakdown Tables</h2>
+        <div class="table-grid">
+            <table>
+                <tr><th>Category</th><th>Revenue (₹)</th></tr>
+                {% for name, value in top_categories %}
+                <tr><td>{{ name }}</td><td>{{ value }}</td></tr>
+                {% endfor %}
+            </table>
+
+            <table>
+                <tr><th>Top Product</th><th>Revenue (₹)</th></tr>
+                {% for name, value in top_products %}
+                <tr><td>{{ name }}</td><td>{{ value }}</td></tr>
+                {% endfor %}
+            </table>
+
+            <table>
+                <tr><th>Region</th><th>Total (₹)</th><th>Avg (₹)</th><th>Orders</th></tr>
+                {% for row in region_table %}
+                <tr><td>{{ row.Index }}</td><td>{{ row.sum }}</td><td>{{ row.mean }}</td><td>{{ row.count }}</td></tr>
+                {% endfor %}
+            </table>
+        </div>
+
+        <h2 class="section-title">Charts</h2>
+        <div class="chart-grid">
+            {% for chart in chart_files %}
+            <div class="chart-card">
+                <img src="{% static 'charts/'|add:chart %}" alt="{{ chart }}">
+            </div>
+            {% endfor %}
+        </div>
+
+        <footer>Retail Sales Analytics Project &middot; generated with Python, Pandas, NumPy, Matplotlib, Seaborn & Django</footer>
+    </div>
+</body>
+</html>
